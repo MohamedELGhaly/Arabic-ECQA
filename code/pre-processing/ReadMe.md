@@ -2,7 +2,7 @@ In this section of the repository, you will find instructions on how to preproce
 
 ## Data Preprocessing
 
-Ensure that you have the required data files from the dataset repository, and paste them into the data directory located in the current root.
+Ensure that you have the required data files from the [dataset repository](https://github.com/MohamedELGhaly/Arabic-ECQA/tree/main/datasets), and paste them into the data directory located in the current root.
 
 ```
 Arabic-OMCS.json
